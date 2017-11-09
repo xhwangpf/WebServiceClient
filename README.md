@@ -1,0 +1,2 @@
+# WebServiceClient
+用于go语言调用webservice的组件
